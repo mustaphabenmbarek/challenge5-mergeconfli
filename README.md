@@ -1,3 +1,3 @@
-# challenge5-mergeconfli
+"REMOTE"
 Bonsoir 
 genere un conflit
