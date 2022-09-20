@@ -1,3 +1,3 @@
-# challenge5-mergeconfli
+"LOCAL"
 Bonsoir 
 genere un conflit
